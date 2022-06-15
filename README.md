@@ -1,5 +1,5 @@
 # Sim_Web
-Simple HTML-based Docker Image with a .tar file as the HTML template and a Dockerfile to create the corresponding Docker image.
+A simple HTML-based Docker image with a .tar file as the HTML template and a Dockerfile to create the corresponding Docker image.
 
 Steps:
 1) docker build -t nanoimg .  # to build image. -t is the option to give name. nanoimg is the name of the image. "." shows the files are the same dir.
