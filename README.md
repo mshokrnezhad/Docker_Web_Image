@@ -1,4 +1,4 @@
-# Sim_Web_Img
+# Web_Image
 A simple HTML-based Docker image with a .tar file as the HTML template and a Dockerfile to create the corresponding Docker image.
 
 Steps:
